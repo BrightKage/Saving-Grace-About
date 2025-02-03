@@ -100,9 +100,10 @@ nav ul li a:hover {
 }
 
 .product-img {
-	max-width:400px;
-	float:right;
-  height:40%;
+  padding:50px;
+  max-height:70%;
+  min-width: 50px;
+  max-width:450px;
   
 }
 .lol {
@@ -115,7 +116,7 @@ nav ul li a:hover {
 .first{
   padding:20px;
   letter-spacing: 2px;
-
+ color:#00008B;
 }
 .LLL{
   display:grid;
