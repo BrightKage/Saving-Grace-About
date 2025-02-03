@@ -102,12 +102,13 @@ nav ul li a:hover {
 .product-img {
 	max-width:400px;
 	float:right;
+  height:40%;
   
 }
 .lol{
   float:left;
   width:auto;
-	height:40%;
+	height:20%;
 }
 .first{
   padding:20px;
@@ -193,5 +194,3 @@ img {vertical-align: middle;}
 @media only screen and (max-width: 300px) {
   .text {font-size: 11px}
 }
-
-
