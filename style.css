@@ -100,7 +100,7 @@ nav ul li a:hover {
 }
 
 .product-img {
-	width:auto;
+	max-width:400px;
 	height:20%;
   float:right;
   
